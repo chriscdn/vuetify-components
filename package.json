@@ -1,0 +1,14 @@
+{
+	"name": "@chriscdn/vuetify-components",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"repository": "https://github.com/chriscdn/vuetify-components.git",
+	"author": "Christopher Meyer <chris@schwiiz.org>",
+	"license": "MIT",
+	"peerDependencies": {
+		"vuetify": "2.x"
+	},
+	"dependencies": {
+		"marked": "^1.2.4"
+	}
+}
