@@ -96,7 +96,7 @@ export default {
 		alert(title, message, options) {
 			return this.open(title, message, {
 				cancelLabel: null,
-				agreeLabel: this.t('OK'),
+				agreeLabel: this.okLabel,
 				...options
 			})
 		},
